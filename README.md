@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Stock Screener and Data Colector</h1>
     <h2>This is a App which will Provide you with Stock Data and also Charts</h2>
     <h4>This is a stock price scrapper which Gets you data in csv and excel for all NYSE companies </h4>
     <h2>Important Pakages Used</h2>
